@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_total_with_tax">Bill Total with Tax:</string>
+    <string name="tip_percent">Tip Percent:</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="total_with_tip">Total with Tip:</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="go">GO</string>
+    <string name="percent12">12%</string>
+    <string name="percent15">15%</string>
+    <string name="percent18">18%</string>
+    <string name="percent20">20%</string>
+    <string name="total_per_person">Total per Person:</string>
+    <string name="overage">Overage:</string>
+</resources>

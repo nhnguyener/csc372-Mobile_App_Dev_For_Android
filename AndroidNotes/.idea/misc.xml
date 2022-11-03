@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Nathan/Documents/School/csc372-Mobile_App_Dev_For_Android/AndroidNotes/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Nathan/Documents/School/csc372-Mobile_App_Dev_For_Android/AndroidNotes/app/src/main/res/layout/activity_about_notes.xml" value="0.5" />
+        <entry key="..\:/Nathan/Documents/School/csc372-Mobile_App_Dev_For_Android/AndroidNotes/app/src/main/res/layout/activity_edit_notes.xml" value="0.362962962962963" />
+        <entry key="..\:/Nathan/Documents/School/csc372-Mobile_App_Dev_For_Android/AndroidNotes/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Nathan/Documents/School/csc372-Mobile_App_Dev_For_Android/AndroidNotes/app/src/main/res/layout/actvitiy_about.xml" value="0.3307291666666667" />
+        <entry key="..\:/Nathan/Documents/School/csc372-Mobile_App_Dev_For_Android/AndroidNotes/app/src/main/res/layout/notes_list_row.xml" value="0.362962962962963" />
+        <entry key="..\:/Nathan/Documents/School/csc372-Mobile_App_Dev_For_Android/AndroidNotes/app/src/main/res/menu/notes_edit_menu.xml" value="0.33" />
+        <entry key="..\:/Nathan/Documents/School/csc372-Mobile_App_Dev_For_Android/AndroidNotes/app/src/main/res/menu/notes_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

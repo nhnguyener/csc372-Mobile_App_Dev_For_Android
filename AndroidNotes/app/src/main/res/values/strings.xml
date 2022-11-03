@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidNotes</string>
+    <string name="aboutmenu">aboutMenu</string>
+    <string name="addmenu">addMenu</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="_2021_nathan_nguyen">©2021, Nathan Nguyen</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="savemenu">saveMenu</string>
+</resources>
